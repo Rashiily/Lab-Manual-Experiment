@@ -57,3 +57,13 @@ int main()
  s->display(); // Calls Rectangle's display() due to runtime polymorphism
  return 0;
 }
+
+/*
+OUTPUT
+--- Operator Overloading ---
+Area of rect1: 50
+Area of rect2: 12
+Total area (rect1 + rect2) using overloaded +: 62
+--- Function Overriding ---
+This is a rectangle with length 7 and width 2.
+*/
