@@ -106,7 +106,7 @@ bill.displayBill();
 return 0; // End of program
 }
 
-//OUTPUT :
+/*OUTPUT :
 Enter Table Number: 5
 Enter Customer Name: Amit Sharma
 Enter Customer Contact Number: 9876543210
@@ -123,4 +123,4 @@ Customer Name : Amit Sharma
 Contact Number : 9876543210
 Total Amount : Rs. 1850.00
 Discount : Rs. 185.00
-Payable Amount : Rs. 1665.00//
+Payable Amount : Rs. 1665.00*/
