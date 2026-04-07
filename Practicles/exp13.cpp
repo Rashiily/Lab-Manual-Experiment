@@ -38,3 +38,14 @@ cout << "After swap: c1 = " << c1 << ", c2 = " << c2 << endl;
 
 return 0;
 }
+
+/*OUTPUT
+--- Swapping Integers ---
+Before swap: x = 10, y = 20
+After swap: x = 20, y = 10
+--- Swapping Floats ---
+Before swap: p = 5.5, q = 9.8
+After swap: p = 9.8, q = 5.5
+--- Swapping Characters ---
+Before swap: c1 = A, c2 = Z
+After swap: c1 = Z, c2 = A*/
